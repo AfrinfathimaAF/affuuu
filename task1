@@ -2,90 +2,48 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Register and Login Forms</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
-        .form-container {
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            width: 300px;
-            margin: 20px;
-        }
-        h2 {
-            text-align: center;
-            color: #333;
-        }
-        input[type="text"],
-        input[type="password"],
-        input[type="email"] {
-            width: 100%;
-            padding: 10px;
-            margin: 10px 0;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-            box-sizing: border-box;
-        }
-        input[type="submit"] {
-            width: 100%;
-            padding: 10px;
-            background-color: #007BFF;
-            color: #fff;
-            border: none;
-            border-radius: 4px;
-            cursor: pointer;
-        }
-        input[type="submit"]:hover {
-            background-color: #0056b3;
-        }
-        p {
-            text-align: center;
-        }
-        a {
-            color: #007BFF;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
 </head>
 <body>
-
-    <!-- Register Form -->
-    <div class="form-container">
-        <h2>Register</h2>
-        <form action="#" method="post">
-            <input type="text" name="username" placeholder="Username" required>
-            <input type="email" name="email" placeholder="Email" required>
-            <input type="password" name="password" placeholder="Password" required>
-            <input type="password" name="confirm_password" placeholder="Confirm Password" required>
-            <input type="submit" value="Register">
-        </form>
-        <p>Already have an account? <a href="#login">Login here</a></p>
-    </div>
-
-    <!-- Login Form -->
-    <div class="form-container">
-        <h2>Login</h2>
-        <form action="#" method="post">
-            <input type="text" name="username" placeholder="Username" required>
-            <input type="password" name="password" placeholder="Password" required>
-            <input type="submit" value="Login">
-        </form>
-        <p>Don't have an account? <a href="#register">Register here</a></p>
-    </div>
-
+    <center>
+    <h1>BEAUTY OF SAUDIA RABIA</h1>
+    </center>
+    <center>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnNQKZAOiCL9oxgMIuBBMqk2UrkS4D8wqBYA&s"></center>
+   <p1><h2>Description of Makkah's beauty</h2>
+    "It is a dream of every obedient servant of Allah to spend at least once in a lifetime experience in this beautiful land, Makkah". 
+    "The most beautiful, blessed, wonderful place in the world is Makkah". 
+    "No words can do justice to describe how unique this place truly". 
+    "You can not express your feelings of visiting Kaaba, you cry when you see the grandeur of the structure". </p1><br>
+   <p2><h2>Significance of Makkah</h2>
+    Makkah is the holiest city for Muslims.
+    It is the birthplace of Prophet Muhammad.
+    It is home to Masjid Al Haram (the Great Mosque) and the Kaaba, the qiblah for Muslims to which they turn in their prayers.
+    Visiting Makkah to perform Hajj or Umrah is a yearning of Muslims.</p2><br>
+    <p3><h2>Why visit Makkah?</h2>
+    Some say that visiting Makkah makes them feel closer to God and peaceful. Others say that it is a blessing to visit a place where worshippers from every nation come to worship the one and only God. </p3><br>
+    <table border="20"width="25">
+        
+    <tr>
+        <th>colour</th>
+        <th>height</th>
+    </tr>
+    <tr>
+        <td>black</td>
+        <td>89meters</td>
+    </tr>
+    
+    <h1>Content Related to Makkah</h1>
+    <ul>
+        <li><strong>Religious and Cultural Significance</strong>
+            <ul>
+                <li>The Holy City of Islam</li>
+                <li>The Five Pillars of Islam and Hajj</li>
+                <li>Masjid al-Haram</li>
+            </ul>
+        </li>
+</table>
+<p>for more information</p><a href="https://en.wikipedia.org/wiki/Masjid_al-Haram">click here</a>
 </body>
 </html>
